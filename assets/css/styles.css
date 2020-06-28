@@ -21,15 +21,68 @@ h2 {
   font-weight: 600;
 }
 
+#hero {
+  padding-top: 150px;
+}
+
+#hero h1 {
+  margin-bottom: 35px;
+}
+
 #hero p {
   font-size: 32px;
+  margin-bottom: 35px;
 }
 
-li {
+#hero li {
   font-size: 24px;
+  margin-bottom: 20px;
 }
 
-#hero {
-  padding-top: 220px;
+.cta-button {
+  background: rgb(241,86,55);
+  background: linear-gradient(330deg, rgba(241,86,55,1) 40%, rgba(241,97,102,1) 100%);
+  color: white !important;
+  font-size: 28px;
+  font-weight: 600;
+  padding: 20px 40px;
+}
+
+.cta-sub-button {
+  font-size: 28px;
+  color: #555555;
+}
+
+#hook {
+  background-image: url("../../assets/img/rawpixel-com-nappy-.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.pad-box {
+  padding: 40px;
+  background: #fff;
+}
+
+.pad-box li {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.pad-box h2 {
+  margin-bottom: 30px;
+}
+
+#cta h2 {
+  margin-bottom: 40px;
+}
+
+#cta a {
+  margin-bottom: 25px;
+}
+
+#sprint {
+  padding-top: 0;
 }
 
